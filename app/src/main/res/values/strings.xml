@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">EjemploSQlite</string>
+    <string name="txtnombres">Nombres</string>
+    <string name="txtapellido">Apellidos</string>
+    <string name="txtcedula">Cedula</string>
+    <string name="txtdireccion">Direccion</string>
+
 </resources>
